@@ -2,8 +2,6 @@
 
 ##### Welcome to my GitHub,
 
-A little more about me...
-
 ```
 👋 Hi, I’m Ajish Antony
 
