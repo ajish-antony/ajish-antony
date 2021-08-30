@@ -13,6 +13,8 @@
         - RedHat Linux Release
         - Ubuntu
         - CentOS
+❄️ Infrastructure As a Code:
+        - Terraform
 ❄️ Source Code Management/Version Control:
         - Git
 ❄️ Monitoring Tools:
