@@ -15,6 +15,8 @@
         - CentOS
 ❄️ Infrastructure As a Code:
         - Terraform
+❄️ Software Provisioning/Configuration Management:
+        - Ansible
 ❄️ Source Code Management/Version Control:
         - Git
 ❄️ Monitoring Tools:
