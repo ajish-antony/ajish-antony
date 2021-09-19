@@ -17,6 +17,8 @@
         - Terraform
 ❄️ Software Provisioning/Configuration Management:
         - Ansible
+❄️ Containerization:
+        - Docker
 ❄️ Source Code Management/Version Control:
         - Git
 ❄️ Monitoring Tools:
