@@ -15,7 +15,7 @@
         - CentOS
 ❄️ Infrastructure As a Code:
         - Terraform
-❄️ Infrastructure As a Code:
+❄️ Image Building Tool:
         - Packer
 ❄️ Software Provisioning/Configuration Management:
         - Ansible
