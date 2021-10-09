@@ -23,6 +23,8 @@
         - Docker
 ❄️ Source Code Management/Version Control:
         - Git
+❄️ Continuous Integeration/Continuous Deployment:
+        - Jenkins
 ❄️ Monitoring Tools:
         - AWS CloudWatch
         - Zabbix
