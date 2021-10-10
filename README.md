@@ -7,7 +7,7 @@
 ```
 👋 Hi, I’m Ajish Antony
 
-❄️ Working as TecOps Engineer
+❄️ Working as DevOps Engineer
 
 ❄️ Cloud platform: 
         - AWS Cloud
