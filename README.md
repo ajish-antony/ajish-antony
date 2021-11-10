@@ -27,6 +27,9 @@
         - Git
 ❄️ Continuous Integeration/Continuous Deployment:
         - Jenkins
+❄️ Scripting Languages:
+        - Python
+        - Bash
 ❄️ Monitoring Tools:
         - AWS CloudWatch
         - Zabbix
