@@ -33,6 +33,11 @@
 ❄️ Monitoring Tools:
         - AWS CloudWatch
         - Zabbix
+        - Grafana
+❄️ Certifications:
+        - Cloud Practitioner (AWS Certified)
+        - Azure Fundamentals (Microsoft Certified)
+        - Certified Foundations Associate (Oracle Certified)
     
 ```     
 
