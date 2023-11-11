@@ -22,11 +22,13 @@
 ❄️ Software Provisioning/Configuration Management:
         - Ansible
 ❄️ Containerization:
+        - K8's
         - Docker
 ❄️ Source Code Management/Version Control:
-        - Git
+        - Git (GitHub, BitBucket, GitLab)
 ❄️ Continuous Integeration/Continuous Deployment:
         - Jenkins
+        - GitLab
 ❄️ Scripting Languages:
         - Python
         - Bash
@@ -35,6 +37,8 @@
         - Zabbix
         - Grafana
 ❄️ Certifications:
+        - Certified Kubernetes Administrator
+        - Terraform Associate (HashiCorp Certified)
         - Cloud Practitioner (AWS Certified)
         - Azure Fundamentals (Microsoft Certified)
         - Certified Foundations Associate (Oracle Certified)
