@@ -8,7 +8,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
  
- 🔭 Currently serving as a Cloud DevOps Engineer at Mindcurv in Kochi, India.
+ 🔭 Currently serving as a Senior DevOps Engineer at Qburst in Kochi, India.
  
  🌱 I am perpetually on a quest for knowledge, consistently striving to bring innovation to the projects I engage in.
  
